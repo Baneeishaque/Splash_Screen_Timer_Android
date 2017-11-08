@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed Nov 08 10:54:50 IST 2017
+2.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu-v11\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\wwe_logo.png
+2.set=ANDROID_RESOURCE
+10.set=DEX
+10.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+4.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+5.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\bg_main.jpg
+9.set=ANDROID_RESOURCE
+9.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\gradient_background.xml
+10.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.set=ANDROID_RESOURCE
+7.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_splash.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+9.base=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=D\:\\DK-HP-PA-2000AR\\Laboratory\\Android_Studio\\AndroidSplashScreenTimer\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
